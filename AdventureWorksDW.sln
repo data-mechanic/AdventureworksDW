@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AdventureWorksDW", "AdventureWorksDW\AdventureWorksDW.sqlproj", "{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CC19FF-C095-4E7E-B5BA-160C4DAFB04F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2406F9C6-5936-4892-970E-C0CE722D2B9D}
+	EndGlobalSection
+EndGlobal
